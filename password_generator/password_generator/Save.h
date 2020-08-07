@@ -5,7 +5,7 @@
 class Save
 {
 	Save();
-	void save_to_file();
+	void save_to_file(std::string input);
 	std::vector<std::string> read_from_file();
 };
 
