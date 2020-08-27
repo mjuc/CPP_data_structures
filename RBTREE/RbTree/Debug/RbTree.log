@@ -1,0 +1,3 @@
+﻿  RbTree.cpp
+C:\Users\Michał\Desktop\algo\RBTREE\RbTree\RbTree.cpp(295,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  RbTree.vcxproj -> C:\Users\Michał\Desktop\algo\RBTREE\RbTree\Debug\RbTree.exe
