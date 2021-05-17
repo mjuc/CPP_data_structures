@@ -1,0 +1,16 @@
+﻿  HashTable.cpp
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(51,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(54,1): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(62,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(77,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(87,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(101,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(109,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(111,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(120,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(122,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(134,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(137,42): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(145,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Michał\Desktop\algo\HashTable\HashTable\HashTable.cpp(74): warning C4715: "HashTable::Find”: niewszystkie ścieżki kodu zwracają wartość
+  HashTable.vcxproj -> C:\Users\Michał\Desktop\algo\HashTable\HashTable\Debug\HashTable.exe

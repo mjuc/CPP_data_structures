@@ -1,0 +1,9 @@
+﻿  Graham.cpp
+C:\Users\Michał\Desktop\algo\Graham\Graham\Graham.cpp(62,21): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Michał\Desktop\algo\Graham\Graham\Graham.cpp(67,21): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Michał\Desktop\algo\Graham\Graham\Graham.cpp(96,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\Graham\Graham\Graham.cpp(112,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\Graham\Graham\Graham.cpp(208,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\Graham\Graham\Graham.cpp(228,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\Desktop\algo\Graham\Graham\Graham.cpp(246,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Graham.vcxproj -> C:\Users\Michał\Desktop\algo\Graham\Graham\Debug\Graham.exe
